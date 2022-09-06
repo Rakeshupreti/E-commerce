@@ -29,7 +29,7 @@ function Cart(){
         .catch((e) => console.log(e));
     };
 
-    const remove = (productId) => {
+    const remove = (productId) => {    
         axios
         .delete(`http://localhost:5000/users/cart/${userid}` , {
             productId: productId
