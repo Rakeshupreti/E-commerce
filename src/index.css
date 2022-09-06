@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.aboutfull{
+  display: flex;
+  height: 675px;
+  align-items: center;
+  padding: 50px;
+  background-color: ;
+
+}
+.aboutbutton{
+  background-color: ;
+}
+.contactfull{
+  display: flex;
+  height: 650px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200px;
+  background-color: ;
+}
+.contactheading{
+  display: flex;
+  flex-direction: column;
+}
+.homefull{
+  display: flex;
+  height: 617px;
+  justify-content: space-between;
+  padding: 30px;
+  background-color: ;
+
+}
+.homedown{
+  text-align-last: center;
+  background-color:;
+}
+.navbar{
+  /* d-flex justify-content-between p-3 text-dark no-underline */
+  display: flex;
+  justify-content: space-between;
+  background-color:;
+  height: 100px;
+  padding: 50px;
+}
+.navbarright{
+  display: flex;
+  gap: 50px; 
+  text-decoration: none;
+}
+.shopheading{
+  text-align: center;
+}
+/* .shopsearch{
+  text-align: center;
+  /* align-items: center; */
+
+.shopfull{
+  background-color:;
+  height: 653px;
+}
+.shopphoto1{
+  display: flex;
+  justify-content: space-around;
+  margin: 30px;
+}
+.shopphoto2{
+  display: flex;
+  justify-content: space-around;
+  /* margin: 30px; */
+}
+.shopsearch{
+  width: 40%;
+  text-align: center;
+}
+.shopsearch1{
+  display: flex;
+  justify-content: center;
+}
+.productimage{
+  height: 300px;
+}
+.productbutton{
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.productmain{
+  display: flex;
+  
+}
+
